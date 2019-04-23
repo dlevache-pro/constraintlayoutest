@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">ConstraintLayoutTest</string>
+    <string name="main_footer">Set \'Item 1\' vertical bias to 0</string>
+    <string name="main_item_1">Item 1</string>
+    <string name="main_item_2">Item 2</string>
+    <string name="main_item_3">Item 3</string>
+
+</resources>
